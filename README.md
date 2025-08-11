@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm Swamy!
 
-<!--
-**Swamy718/Swamy718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | AI/ML Enthusiast | Full-Stack Learner**
 
-Here are some ideas to get you started:
+I’m passionate about building **intelligent systems**, **interactive web applications**, and exploring **deep learning, NLP and Gen AI**.  
+Currently diving deep into **Full Stack Development**, **Python AI/ML projects**, and **React + FastAPI** integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+### Languages
+- **Python**, **Java**, **JavaScript**, **HTML**, **CSS**
+  
+### Frameworks & Libraries
+- **React.js**, **Streamlit**, **FastAPI**, **LangChain**, **Pygame**
+- **Machine Learning**: scikit-learn, TensorFlow, Keras, PyTorch
+- **NLP**: LSTM, Transformers, RNNs
+
+### Databases
+- **MySQL**, **MongoDB**
+
+### Tools & Platforms
+- **Git & GitHub**, **VS Code**, **Postman**, **Docker**
+- **Cloud**: Microsoft Azure
+
+---
+
+## 📌 Current Focus
+- 🔹 Building **AI-powered applications** (chatbots, sentiment analysis, stock prediction)
+
+---
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamy-pothabattula/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Swamy718)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:swamy18718@gmail.com)
+
+---
+
+
