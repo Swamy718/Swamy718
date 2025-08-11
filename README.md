@@ -9,11 +9,11 @@ Currently diving deep into **Full Stack Development**, **Python AI/ML projects**
 
 ## 🛠️ Tech Stack & Tools
 ### Languages
-- **Python**, **Java**, **JavaScript**, **HTML**, **CSS**
+- **Python**, **Java**, **SQL**, **HTML**, **CSS**, **JavaScript**
   
 ### Frameworks & Libraries
-- **React.js**, **Streamlit**, **FastAPI**, **LangChain**, **Pygame**
-- **Machine Learning**: scikit-learn, TensorFlow, Keras, PyTorch
+- **React.js**, **FastAPI**, **LangChain**, **Streamlit**
+- **Machine Learning**: Numpy, Pandas, Matplotlib, scikit-learn, TensorFlow, Keras, PyTorch
 - **NLP**: LSTM, Transformers, RNNs
 
 ### Databases
